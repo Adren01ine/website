@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shaofeng Dai",
+    "section": "",
+    "text": "My selfie with Three Gorges Dam"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
+    "title": "Shaofeng Dai",
+    "section": "Welcome to My Website",
+    "text": "Welcome to My Website\nHi! I’m Shaofeng Dai, a student interested in data and civic tech.\n\nLinks:\n\nGitHub\nResume"
+  }
+]
