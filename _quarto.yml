@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "Shaofeng Dai  戴少锋"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - icon: github
+        href: https://github.com/Adren01ine
+
+format:
+  html:
+    theme: yeti
+    css: styles.css

@@ -1,0 +1,14 @@
+---
+title: "Shaofeng Dai"
+---
+
+![My selfie with Three Gorges Dam](images/photo.jpg){fig-align="left" width="200"}
+
+## Welcome to My Website
+
+Hi! I'm Shaofeng Dai, a student interested in data and civic tech.
+
+### Links:
+
+-   [GitHub](https://github.com/Adren01ine)
+-   [Resume](resume.pdf)
