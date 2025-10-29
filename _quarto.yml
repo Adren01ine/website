@@ -16,3 +16,7 @@ format:
   html:
     theme: yeti
     css: styles.css
+
+project:
+  type: website
+  output-dir: docs   
